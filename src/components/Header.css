@@ -1,0 +1,40 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 10px;
+    background-color: green;
+    position: fixed;
+    width: 100%;
+    color: white;
+    height: 80px;
+  }
+  
+  .logo {
+    font-size: 30px;
+    margin-left: 20px;
+  }
+
+  .menu, .login{
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding-left: 0;
+    
+  }
+  
+ .menu li {
+    padding: 8px 30px;
+    font-size: 20px;
+  }
+
+.login{
+    width: 100px;
+    margin-right: 50px;
+}
+
+.login li{
+    padding: 8px 10px;
+    font-size: 20px;
+}
+

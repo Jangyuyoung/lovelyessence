@@ -1,0 +1,95 @@
+.video{
+    margin-top: 70px;
+    pointer-events: none;
+}
+
+.submenu{
+    box-sizing: border-box;
+    width: 70%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 10px;
+    transition: all 1s;
+}
+
+.submenu:hover{
+    opacity: 2;
+}
+
+.submenu div{
+    width: 300px;
+    height: 300px;
+    border: 1px solid pink;
+}
+
+.text{
+    text-align: center;
+}
+
+.test {
+    width: 810px;
+    height: 600px;
+    border: 1px solid black;
+    margin: 0 auto;
+    text-align: center;
+    position : relative;
+    
+}
+
+
+.test1{
+    width: 400px;
+    height: 400px;
+    border: 1px solid grey;
+    float: left;
+}
+
+.test2{
+    width: 200px;
+    height: 200px;
+    float: left;
+    border: 1px solid grey;
+
+    
+   
+}
+
+.test3{
+    width: 200px;
+    height: 200px;
+    float: right;
+    border: 1px solid grey;
+    margin-bottom: 20px;
+    margin-right: 3px;
+}
+
+.test4{
+    width: 200px;
+    height: 200px;
+    border: 1px solid grey;
+    float: left;
+
+
+}
+
+.test5{
+    width: 199px;
+    height: 200px;
+    border: 1px solid grey;
+    float: left;
+}
+
+.test6{
+    width: 400px;
+    height: 400px;
+    border: 1px solid grey;
+    float: right;
+    position : absolute;
+    left: 400px;
+    top: 200px;
+    margin-left: 3.5px;
+}
+
