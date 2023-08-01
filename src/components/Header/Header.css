@@ -8,6 +8,9 @@
     width: 100%;
     color: white;
     height: 80px;
+    z-index: 1;
+    margin-top: 70px;
+    overflow: hidden;
   }
   
   .logo {

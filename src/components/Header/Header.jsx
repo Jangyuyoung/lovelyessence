@@ -6,8 +6,8 @@ import { BsFillCartFill } from "react-icons/bs";
 
 export default function header() {
   return (
+    <>
         <nav className='navbar'>
-
           <div className='logo'>
             <span><IoIosTennisball/>play tennis</span>
           </div>
@@ -23,7 +23,7 @@ export default function header() {
             <li>login</li>
             <li className='cart'><BsFillCartFill/></li>
           </ul>
-
         </nav>
+    </>    
   )
 }

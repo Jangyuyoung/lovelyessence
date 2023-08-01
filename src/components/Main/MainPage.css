@@ -1,6 +1,8 @@
+
 .video{
-    margin-top: 70px;
+    padding-top: 167px;
     pointer-events: none;
+    overflow: hidden;
 }
 
 .submenu{
@@ -27,6 +29,8 @@
 
 .text{
     text-align: center;
+    margin-top: 60px;
+    
 }
 
 .test {
@@ -36,6 +40,7 @@
     margin: 0 auto;
     text-align: center;
     position : relative;
+    margin-top: 50px;
     
 }
 
